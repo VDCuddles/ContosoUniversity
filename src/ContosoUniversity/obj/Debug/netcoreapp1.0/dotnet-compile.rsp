@@ -230,16 +230,16 @@
 --reference:C:\Users\·Aquila\.nuget\packages\System.Xml.ReaderWriter\4.0.11\ref\netstandard1.3\System.Xml.ReaderWriter.dll
 --reference:C:\Users\·Aquila\.nuget\packages\System.Xml.XDocument\4.0.11\ref\netstandard1.3\System.Xml.XDocument.dll
 --resource:"E:\ContosoUniversity\src\ContosoUniversity\obj\Debug\netcoreapp1.0\ContosoUniversitydotnet-compile.deps.json",ContosoUniversity.deps.json
+E:\ContosoUniversity\src\ContosoUniversity\PaginatedList.cs
 E:\ContosoUniversity\src\ContosoUniversity\Program.cs
 E:\ContosoUniversity\src\ContosoUniversity\Startup.cs
-E:\ContosoUniversity\src\ContosoUniversity\PaginatedList.cs
 E:\ContosoUniversity\src\ContosoUniversity\Controllers\AccountController.cs
+E:\ContosoUniversity\src\ContosoUniversity\Controllers\HomeController.cs
 E:\ContosoUniversity\src\ContosoUniversity\Controllers\ManageController.cs
 E:\ContosoUniversity\src\ContosoUniversity\Controllers\StudentsController.cs
-E:\ContosoUniversity\src\ContosoUniversity\Controllers\HomeController.cs
 E:\ContosoUniversity\src\ContosoUniversity\Data\ApplicationDbContext.cs
-E:\ContosoUniversity\src\ContosoUniversity\Data\SchoolContext.cs
 E:\ContosoUniversity\src\ContosoUniversity\Data\Dbinitializer.cs
+E:\ContosoUniversity\src\ContosoUniversity\Data\SchoolContext.cs
 E:\ContosoUniversity\src\ContosoUniversity\Data\Migrations\00000000000000_CreateIdentitySchema.cs
 E:\ContosoUniversity\src\ContosoUniversity\Data\Migrations\00000000000000_CreateIdentitySchema.Designer.cs
 E:\ContosoUniversity\src\ContosoUniversity\Data\Migrations\ApplicationDbContextModelSnapshot.cs
@@ -267,3 +267,6 @@ E:\ContosoUniversity\src\ContosoUniversity\Models\SchoolViewModels\EnrollmentDat
 E:\ContosoUniversity\src\ContosoUniversity\Services\IEmailSender.cs
 E:\ContosoUniversity\src\ContosoUniversity\Services\ISmsSender.cs
 E:\ContosoUniversity\src\ContosoUniversity\Services\MessageServices.cs
+E:\ContosoUniversity\src\ContosoUniversity\Migrations\20170323000013_MaxLengthOnNames.Designer.cs
+E:\ContosoUniversity\src\ContosoUniversity\Migrations\SchoolContextModelSnapshot.cs
+E:\ContosoUniversity\src\ContosoUniversity\Migrations\20170323000013_MaxLengthOnNames.cs
